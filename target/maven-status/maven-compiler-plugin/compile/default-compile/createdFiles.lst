@@ -1,0 +1,6 @@
+annotation\processor\ByteCodeFactory.class
+annotation\processor\CompileTimeProcessor2.class
+annotation\processor\CompileTimeProcessor2$1.class
+annotation\processor\CustomAnnotation.class
+annotation\processor\CompileTimeProcessor.class
+annotation\processor\RuntimeProcessor.class
